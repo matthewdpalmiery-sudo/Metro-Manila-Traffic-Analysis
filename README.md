@@ -22,3 +22,6 @@ Incident Breakdown: Vehicular Accidents (82.6%) are the primary driver of conges
 traffic_analysis.ipynb: Python scripts used for initial data wrangling.
 
 traffic_project.code-workspace: Environment configuration for the data pipeline.
+
+Dataset link: https://www.kaggle.com/datasets/esparko/mmda-traffic-incident-data
+
