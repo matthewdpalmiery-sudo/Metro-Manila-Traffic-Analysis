@@ -25,3 +25,4 @@ traffic_project.code-workspace: Environment configuration for the data pipeline.
 
 Dataset link: https://www.kaggle.com/datasets/esparko/mmda-traffic-incident-data
 
+<img width="1150" height="556" alt="Screenshot 2026-03-08 164034" src="https://github.com/user-attachments/assets/301b49ff-9a6b-45fc-986a-3d89e97f6498" />
